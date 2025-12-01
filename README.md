@@ -21,7 +21,7 @@ We aggregate these residuals to create a "6-Card Score" profile for each judge:
 ### Interactive Dashboard
 This repository includes a prototype **Shiny App** (or R Markdown report) that visualizes these metrics. 
 
-*(Insert a screenshot of your Shiny App or Report here)*
+*(Shiny App will be updated here)*
 
 **Key Visualizations:**
 * **Bland-Altman Plots:** To detect systematic bias across different score levels.

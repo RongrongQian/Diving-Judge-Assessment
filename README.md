@@ -13,8 +13,9 @@ We establish a "ground truth" for every dive by calculating the consensus of the
 
 #### 2. Performance Metrics
 We aggregate these residuals to create a "6-Card Score" profile for each judge:
-* **Consistency:** Measures the volatility of a judge's residuals. A lower standard deviation indicates a more predictable and stable judge.
 * **Severity/Leniency:** Determines if a judge systematically scores higher (+) or lower (-) than their peers.
+* **Consistency:** Measures the volatility of a judge's residuals. A lower standard deviation indicates a more predictable and stable judge.
+* **Agreement:** Measures how well the judge's **rank-ordering** aligns with the panel consensus. High agreement means the judge correctly identifies the best dives, even if their absolute scores are harsh or lenient.
 * **Extremeness:** Tracks how frequently a judge is the outlier (max/min) and the magnitude of their deviation (Gap Index).
 * **Range Utilization:** Analyzes if a judge uses the full scoring scale or sticks to "safe" central scores.
 

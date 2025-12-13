@@ -1,0 +1,15 @@
+# From Scores to Trust: A Statistical Quality Assessment for Diving Judges
+# --- Quantifying Rater Effects, Bias, and Reliability using Summary Data
+
+# Author: 
+	Rongrong Qian (qianr5@miamioh.edu)
+	Jing Jing (jingj4@miamioh.edu)
+	Charntel Kazingizi (kazingcr@miamioh.edu)
+	Sagar Pangeni (pangens@miamioh.edu)
+
+# Advisor: Michael Hughes (hughesmr@miamioh.edu)
+# Miami University Department of Statistics
+
+# Date: "2025-12-05"
+
+# Shiny App Link: https://muohio.shinyapps.io/sta660/

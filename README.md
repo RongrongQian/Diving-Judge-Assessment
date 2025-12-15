@@ -3,7 +3,7 @@
 ### Overview
 In collaboration with the **DiveLive** app, this project addresses the subjectivity and bias in diving competition scoring. 
 
-We developed a statistical framework to objective evaluate judge performance, transforming raw, subjective scores into **"Actionable Intelligence"**—simple, interpretable metrics that help judges identify their own biases and improve fairness.
+We developed a statistical framework to objective evaluate judge performance, transforming raw, subjective scores into **"Actionable Intelligence"**, simple, interpretable metrics that help judges identify their own biases and improve fairness.
 
 ### Key Features & Methodology
 Instead of using simple averages which are biased by dive difficulty, we use a **Leave-One-Out (LOO) Baseline** approach.

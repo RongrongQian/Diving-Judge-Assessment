@@ -1,4 +1,4 @@
-# Diving-Judge-Assessment
+# From Scores to Trust: A Statistical Quality Assessment for Diving Judges
 
 ### Overview
 In collaboration with the **Dive+** app, this project addresses the subjectivity and bias in diving competition scoring. 
@@ -12,7 +12,7 @@ Instead of using simple averages which are biased by dive difficulty, we use a *
 We establish a "ground truth" for every dive by calculating the consensus of the panel *excluding* the judge in question. This allows us to calculate the **Residual ($r_{jd}$)**: the deviation of a judge's score from the panel consensus.
 
 #### 2. Performance Metrics
-We aggregate these residuals to create a "6-Card Score" profile for each judge:
+We aggregate these residuals to create a "5-Card Score" profile for each judge:
 * **Severity/Leniency:** Determines if a judge systematically scores higher (+) or lower (-) than their peers.
 * **Consistency:** Measures the volatility of a judge's residuals. A lower standard deviation indicates a more predictable and stable judge.
 * **Agreement:** Measures how well the judge's **rank-ordering** aligns with the panel consensus. High agreement means the judge correctly identifies the best dives, even if their absolute scores are harsh or lenient.

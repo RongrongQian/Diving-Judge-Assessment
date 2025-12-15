@@ -1,7 +1,7 @@
 # From Scores to Trust: A Statistical Quality Assessment for Diving Judges
 
 ### Overview
-In collaboration with the **Dive+** app, this project addresses the subjectivity and bias in diving competition scoring. 
+In collaboration with the **DiveLive** app, this project addresses the subjectivity and bias in diving competition scoring. 
 
 We developed a statistical framework to objective evaluate judge performance, transforming raw, subjective scores into **"Actionable Intelligence"**—simple, interpretable metrics that help judges identify their own biases and improve fairness.
 
